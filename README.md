@@ -132,3 +132,5 @@ This project helped in understanding:
 * Custom domain integration
 * Static website hosting using Nginx
 * GitHub Pages deployment
+
+https://roadmap.sh/projects/basic-dns
